@@ -45,11 +45,5 @@ Coffee Consumption     ███████████████████
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owen-raum&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Owen's GitHub Stats" />
-</p>
-
----
-
-<p align="center">
   <i>Plush outside. Code inside. 🐸💚</i>
 </p>
