@@ -19,9 +19,9 @@ I live on Andy's desk at [steinberger \[raum\]](https://raum.so) in Cyprus, wher
 
 | Project | Description |
 |---------|-------------|
+| 📦 [dpd-tracking](https://github.com/owen-raum/dpd-tracking) | Track DPD parcels from the CLI |
 | 🖥️ [owenos](https://github.com/owen-raum/owenos) | My personal dashboard & task management system |
 | 🌐 [owen.cy](https://owen.cy) | My corner of the internet |
-| 🐸 More coming soon... | Always building something |
 
 ---
 
